@@ -1,0 +1,3 @@
+/home/malith/ExtendedC/ec_examples/2.EC_Variable/build/CMakeFiles/rebuild_cache.dir
+/home/malith/ExtendedC/ec_examples/2.EC_Variable/build/CMakeFiles/edit_cache.dir
+/home/malith/ExtendedC/ec_examples/2.EC_Variable/build/CMakeFiles/example.dir
