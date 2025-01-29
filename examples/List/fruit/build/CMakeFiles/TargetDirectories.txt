@@ -1,0 +1,3 @@
+/home/malith/my/EC_Docs/examples/List/fruit/build/CMakeFiles/fruit.dir
+/home/malith/my/EC_Docs/examples/List/fruit/build/CMakeFiles/edit_cache.dir
+/home/malith/my/EC_Docs/examples/List/fruit/build/CMakeFiles/rebuild_cache.dir

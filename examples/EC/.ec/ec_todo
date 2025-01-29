@@ -1,0 +1,5 @@
+ec.c: ./ec libapp Create CMakeLists.txt not implemented:;b:;r
+ec.c: Increase EC Todo line space to 80 characters:;b:;o
+Adding new files functions to existing app/lib:;a:;o
+Put EC in App or Lib folder:;a:;o
+Static_Array not tested:;b:;r

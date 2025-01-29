@@ -1,0 +1,3 @@
+/home/malith/my/cards/.ec/build/CMakeFiles/cards.dir
+/home/malith/my/cards/.ec/build/CMakeFiles/edit_cache.dir
+/home/malith/my/cards/.ec/build/CMakeFiles/rebuild_cache.dir

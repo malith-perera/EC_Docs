@@ -1,0 +1,1 @@
+/usr/bin/cc -g CMakeFiles/fruit.dir/src/fruit.c.o -o fruit   -L/home/malith/my/EC_Docs/examples/List/EC/lib  -Wl,-rpath,/home/malith/my/EC_Docs/examples/List/EC/lib -lEC 

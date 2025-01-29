@@ -1,1 +1,0 @@
-/usr/bin/cc -g   CMakeFiles/example.dir/src/main.c.o CMakeFiles/example.dir/src/student.c.o  -o example   -L/home/malith/ExtendedC/ec_examples/2.EC_Variable/../../EC/lib  -Wl,-rpath,/home/malith/ExtendedC/ec_examples/2.EC_Variable/../../EC/lib -lEC -lm 

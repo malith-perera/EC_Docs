@@ -1,0 +1,1 @@
+/usr/bin/cc -g CMakeFiles/cards.dir/home/malith/my/cards/src/cards.c.o -o cards   -L/home/malith/my/EC  -Wl,-rpath,/home/malith/my/EC -lEC 
